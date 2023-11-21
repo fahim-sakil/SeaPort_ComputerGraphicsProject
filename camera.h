@@ -1,10 +1,3 @@
-//
-//  camera.h
-//  3D Object Drawing
-//
-//  Created by Nazirul Hasan on 4/9/23.
-//
-
 #ifndef CAMERA_H
 #define CAMERA_H
 
